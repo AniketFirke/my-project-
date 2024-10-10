@@ -1,23 +1,23 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=swatified&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aniket A Firke" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AniketFirke&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aniket A Firke" width="100%">
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatified&theme=tokyonight&hide_border=true" alt="Swati's Streak" width="100%" style="margin-top: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketFirke&theme=tokyonight&hide_border=true" alt="Aniket Streak" width="100%" style="margin-top: 10px;">
     </td>
     <td style="border: none; width: 50%;">
       <img src="https://i.ibb.co/Qj9Xvvx/69684b62bc72d19642273491b51fcee0.jpg" height="400">
     </td>
   </tr>
 </table>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swatified/swatified/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AniketFirke/AniketFirke/output/github-contribution-grid-snake.svg" />
 <br>
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatified&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketFirke&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270">
       </td>
       <td width="40%" align="center" valign="top">
         <table>
@@ -44,7 +44,8 @@
             <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /></td>
             <td align="center"><img src="https://skillicons.dev/icons?i=gradle" /></td>
-          </tr></table>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
